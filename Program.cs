@@ -20,3 +20,6 @@ CachorroAbstrato lilica = new CachorroAbstrato("Lilica");
 GatoAbstrato harry = new GatoAbstrato("Harry");
 lilica.EmitirSom();
 harry.EmitirSom();
+
+Passaro passaro = new Passaro();
+passaro.Voar();
