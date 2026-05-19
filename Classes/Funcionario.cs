@@ -15,3 +15,7 @@ public abstract class Funcionario
     // Método abstrato que DEVE ser implementado pelas classes filhas
     public abstract decimal CalcularBonus();
 }
+
+//vitual
+//abstract
+//interface
